@@ -5,7 +5,7 @@ import time
 import os
 
 my_email = "newemailjustforproject@gmail.com"
-password = "atcbbgmbgwazjkje"
+password = "at"
 
 
 MY_LAT = 19.020490
